@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+endpointApiVersion=35.0
+endpointEnvironment=Other (Specify)
+endpointServer=login.salesforce.com
+httpsProtocol=true
+ideVersion=35.0
+keependpoint=false
+metadataFormatVersion=35.0
+namespacePrefix=
+packageName=Test Package
+preferToolingDeployment=true
+projectIdentifier=IDE5699559632718416643
+readTimeout=400
+username=vgmtechie@gmail.com
